@@ -1,0 +1,209 @@
+
+x =
+
+    8.5941
+   34.4118
+   36.7647
+
+question1
+Sesörlerden alýnan deðerleri giriniz: [1 2 3 ; 4 5 6]
+
+dereceler =
+
+     1     2     3
+     4     5     6
+
+En Küçük Deðer: 1 En Büyük Deðer: 5
+Ortalama sýcaklýk: 4.250000e+00
+question1
+Sesörlerden alýnan deðerleri giriniz: [12 20 18 14; 45 50 25 11; -20 15 14 13]
+
+dereceler =
+
+    12    20    18    14
+    45    50    25    11
+   -20    15    14    13
+
+En Küçük Deðer: -20 En Büyük Deðer: 50
+{Matrix index is out of range for deletion.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('question1', 'C:\Users\mustafa\Desktop\matlab final\question1\question1.m', 17)" style="font-weight:bold">question1</a> (<a href="matlab: opentoline('C:\Users\mustafa\Desktop\matlab final\question1\question1.m',17,0)">line 17</a>)
+dereceler(max)=[];
+} 
+question1
+Sesörlerden alýnan deðerleri giriniz: [12 22 12 15;45 65 21 12;-20 -11 -10 -5;98 52 21 1]
+
+dereceler =
+
+    12    22    12    15
+    45    65    21    12
+   -20   -11   -10    -5
+    98    52    21     1
+
+En Küçük Deðer: -20 En Büyük Deðer: 98
+{Matrix index is out of range for deletion.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('question1', 'C:\Users\mustafa\Desktop\matlab final\question1\question1.m', 17)" style="font-weight:bold">question1</a> (<a href="matlab: opentoline('C:\Users\mustafa\Desktop\matlab final\question1\question1.m',17,0)">line 17</a>)
+dereceler(max)=[];
+} 
+question1
+Sesörlerden alýnan deðerleri giriniz: [12 22 12 15;45 65 21 12;-20 -11 -10 -5;98 52 21 1]
+
+dereceler =
+
+    12    22    12    15
+    45    65    21    12
+   -20   -11   -10    -5
+    98    52    21     1
+
+En Küçük Deðer: -20 En Büyük Deðer: 98
+{Matrix index is out of range for deletion.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('question1', 'C:\Users\mustafa\Desktop\matlab final\question1\question1.m', 17)" style="font-weight:bold">question1</a> (<a href="matlab: opentoline('C:\Users\mustafa\Desktop\matlab final\question1\question1.m',17,0)">line 17</a>)
+dereceler(max)=[];
+} 
+question1
+Sesörlerden alýnan deðerleri giriniz: [1 2 3; 4 5 6; 7 8 9]
+
+dereceler =
+
+     1     2     3
+     4     5     6
+     7     8     9
+
+En Küçük Deðer: 1 En Büyük Deðer: 9
+Ortalama sýcaklýk: 5
+question1
+Sesörlerden alýnan deðerleri giriniz: [1 2 3 4; 5 6 7 8; 9 10 15 12; 11 15 66 3]
+
+dereceler =
+
+     1     2     3     4
+     5     6     7     8
+     9    10    15    12
+    11    15    66     3
+
+En Küçük Deðer: 1 En Büyük Deðer: 66
+{Matrix index is out of range for deletion.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('question1', 'C:\Users\mustafa\Desktop\matlab final\question1\question1.m', 17)" style="font-weight:bold">question1</a> (<a href="matlab: opentoline('C:\Users\mustafa\Desktop\matlab final\question1\question1.m',17,0)">line 17</a>)
+dereceler(max)=[];
+} 
+question1
+Sesörlerden alýnan deðerleri giriniz: [65 56 36; 11 25 14; 32 15 47]
+
+dereceler =
+
+    65    56    36
+    11    25    14
+    32    15    47
+
+En Küçük Deðer: 11 En Büyük Deðer: 65
+{Matrix index is out of range for deletion.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('question1', 'C:\Users\mustafa\Desktop\matlab final\question1\question1.m', 17)" style="font-weight:bold">question1</a> (<a href="matlab: opentoline('C:\Users\mustafa\Desktop\matlab final\question1\question1.m',17,0)">line 17</a>)
+dereceler(max)=[];
+} 
+question1
+Sesörlerden alýnan deðerleri giriniz: [65 56 36; 11 25 14; 32 15 47]
+
+dereceler =
+
+    65    56    36
+    11    25    14
+    32    15    47
+
+En Küçük Deðer: 11 En Büyük Deðer: 65
+{Attempt to grow array along ambiguous dimension.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('question1', 'C:\Users\mustafa\Desktop\matlab final\question1\question1.m', 17)" style="font-weight:bold">question1</a> (<a href="matlab: opentoline('C:\Users\mustafa\Desktop\matlab final\question1\question1.m',17,0)">line 17</a>)
+dereceler(max)=0;
+} 
+question1
+Sesörlerden alýnan deðerleri giriniz: [10 11 12; 13 14 15; 16 17 18]
+
+dereceler =
+
+    10    11    12
+    13    14    15
+    16    17    18
+
+En Küçük Deðer: 10 En Büyük Deðer: 18
+{Matrix index is out of range for deletion.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('question1', 'C:\Users\mustafa\Desktop\matlab final\question1\question1.m', 17)" style="font-weight:bold">question1</a> (<a href="matlab: opentoline('C:\Users\mustafa\Desktop\matlab final\question1\question1.m',17,0)">line 17</a>)
+dereceler(max)=[];
+} 
+question1
+Sesörlerden alýnan deðerleri giriniz: [10 11 12; 13 14 15; 16 17 18]
+
+dereceler =
+
+    10    11    12
+    13    14    15
+    16    17    18
+
+{Index exceeds array bounds.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('question1', 'C:\Users\mustafa\Desktop\matlab final\question1\question1.m', 8)" style="font-weight:bold">question1</a> (<a href="matlab: opentoline('C:\Users\mustafa\Desktop\matlab final\question1\question1.m',8,0)">line 8</a>)
+        find(dereceler==max(dereceler))
+} 
+question1
+Sesörlerden alýnan deðerleri giriniz: [10 11 12; 13 14 15; 16 17 18]
+
+dereceler =
+
+    10    11    12
+    13    14    15
+    16    17    18
+
+En Küçük Deðer: 10 En Büyük Deðer: 18
+{Matrix index is out of range for deletion.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('question1', 'C:\Users\mustafa\Desktop\matlab final\question1\question1.m', 17)" style="font-weight:bold">question1</a> (<a href="matlab: opentoline('C:\Users\mustafa\Desktop\matlab final\question1\question1.m',17,0)">line 17</a>)
+dereceler(max)=[];
+} 
+question1
+Sesörlerden alýnan deðerleri giriniz: [10 11 12; 13 14 15; 16 17 18]
+
+dereceler =
+
+    10    11    12
+    13    14    15
+    16    17    18
+
+
+i =
+
+     3
+
+En Küçük Deðer: 10 En Büyük Deðer: 18
+{Matrix index is out of range for deletion.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('question1', 'C:\Users\mustafa\Desktop\matlab final\question1\question1.m', 18)" style="font-weight:bold">question1</a> (<a href="matlab: opentoline('C:\Users\mustafa\Desktop\matlab final\question1\question1.m',18,0)">line 18</a>)
+dereceler(max)=[ ];
+} 
+question1
+Sesörlerden alýnan deðerleri giriniz: [1 2 3 4; 5 6 7 8; 9 3 4 5;6 5 4 3]
+
+dereceler =
+
+     1     2     3     4
+     5     6     7     8
+     9     3     4     5
+     6     5     4     3
+
+En Küçük Deðer: 1 En Büyük Deðer: 9
+Ortalama sýcaklýk: 5.071429e+00
+question1
+Sesörlerden alýnan deðerleri giriniz: [1 2 3 4; 5 6 7 8; 9 3 4 5;6 5 4 3]
+
+dereceler =
+
+     1     2     3     4
+     5     6     7     8
+     9     3     4     5
+     6     5     4     3
+
+En Küçük Deðer: 1 En Büyük Deðer: 9
+Ortalama sýcaklýk: 5.071429e+00
